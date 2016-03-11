@@ -1,0 +1,11 @@
+total 16
+drwx------  3 root         wheel  102 Mar 11 08:57 KSOutOfProcessFetcher.0.ppfIhqX0vjaTSb8AJYobDV7Cu68=
+drwx------  3 madhukanoor  wheel  102 Mar 11 08:57 KSOutOfProcessFetcher.501.ppfIhqX0vjaTSb8AJYobDV7Cu68=
+-rw-r--r--  1 madhukanoor  wheel   11 Mar 11 10:29 README.md
+drwx------  3 madhukanoor  wheel  102 Mar 11 08:57 com.apple.launchd.09cBQrXtlj
+drwx------  3 madhukanoor  wheel  102 Mar 11 08:57 com.apple.launchd.I49zOtlE5N
+drwx------  3 madhukanoor  wheel  102 Mar 11 08:57 com.apple.launchd.tIXhHfjmxo
+-rw-r--r--  1 madhukanoor  wheel    0 Mar 11 08:57 ct.shutdown
+-rw-r--r--  1 madhukanoor  wheel  229 Mar 11 10:30 file1
+-rw-r--r--  1 madhukanoor  wheel    0 Mar 11 10:30 file2
+drwxr-xr-x  5 madhukanoor  wheel  170 Mar 11 10:22 junk1
