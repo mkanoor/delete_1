@@ -1,0 +1,21 @@
+total 56
+0 drwxrwxrwt  20 root         wheel   680 Mar 11 10:54 .
+0 drwxr-xr-x@  6 root         wheel   204 Oct 20 08:29 ..
+0 drwxr-xr-x  10 madhukanoor  wheel   340 Mar 11 10:53 .git
+0 -rw-rw-rw-@  1 madhukanoor  wheel     0 Mar 11 08:57 .keystone_install_lock
+0 srwxrwxrwx   1 postgres     wheel     0 Mar 11 10:53 .s.PGSQL.5432
+8 -rw-------   1 postgres     wheel    53 Mar 11 10:53 .s.PGSQL.5432.lock
+0 drwx------   3 root         wheel   102 Mar 11 08:57 KSOutOfProcessFetcher.0.ppfIhqX0vjaTSb8AJYobDV7Cu68=
+0 drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 KSOutOfProcessFetcher.501.ppfIhqX0vjaTSb8AJYobDV7Cu68=
+8 -rw-r--r--   1 madhukanoor  wheel    11 Mar 11 10:29 README.md
+0 drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 com.apple.launchd.09cBQrXtlj
+0 drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 com.apple.launchd.I49zOtlE5N
+0 drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 com.apple.launchd.tIXhHfjmxo
+0 -rw-r--r--   1 madhukanoor  wheel     0 Mar 11 08:57 ct.shutdown
+8 -rw-r--r--   1 madhukanoor  wheel   229 Mar 11 10:30 file1
+8 -rw-r--r--   1 madhukanoor  wheel   754 Mar 11 10:30 file2
+8 -rw-r--r--   1 madhukanoor  wheel  1200 Mar 11 10:34 file4
+8 -rw-r--r--   1 madhukanoor  wheel  1276 Mar 11 10:41 file5
+8 -rw-r--r--   1 madhukanoor  wheel   964 Mar 11 10:54 file6
+0 -rw-r--r--   1 madhukanoor  wheel     0 Mar 11 10:54 file7
+0 drwxr-xr-x   8 madhukanoor  wheel   272 Mar 11 10:41 junk1
