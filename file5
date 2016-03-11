@@ -1,0 +1,19 @@
+total 40
+drwxr-xr-x   8 madhukanoor  wheel   272 Mar 11 10:41 junk1
+-rw-r--r--   1 madhukanoor  wheel     0 Mar 11 10:41 file5
+-rw-r--r--   1 madhukanoor  wheel  1200 Mar 11 10:34 file4
+-rw-r--r--   1 madhukanoor  wheel   754 Mar 11 10:30 file2
+-rw-r--r--   1 madhukanoor  wheel   229 Mar 11 10:30 file1
+-rw-r--r--   1 madhukanoor  wheel     0 Mar 11 08:57 ct.shutdown
+drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 com.apple.launchd.tIXhHfjmxo
+drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 com.apple.launchd.I49zOtlE5N
+drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 com.apple.launchd.09cBQrXtlj
+-rw-r--r--   1 madhukanoor  wheel    11 Mar 11 10:29 README.md
+drwx------   3 madhukanoor  wheel   102 Mar 11 08:57 KSOutOfProcessFetcher.501.ppfIhqX0vjaTSb8AJYobDV7Cu68=
+drwx------   3 root         wheel   102 Mar 11 08:57 KSOutOfProcessFetcher.0.ppfIhqX0vjaTSb8AJYobDV7Cu68=
+-rw-------   1 postgres     wheel    53 Mar 11 09:55 .s.PGSQL.5432.lock
+srwxrwxrwx   1 postgres     wheel     0 Mar 11 09:55 .s.PGSQL.5432
+-rw-rw-rw-@  1 madhukanoor  wheel     0 Mar 11 08:57 .keystone_install_lock
+drwxr-xr-x  10 madhukanoor  wheel   340 Mar 11 10:34 .git
+drwxr-xr-x@  6 root         wheel   204 Oct 20 08:29 ..
+drwxrwxrwt  18 root         wheel   612 Mar 11 10:41 .
